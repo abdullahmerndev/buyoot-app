@@ -4,9 +4,7 @@
   "engines": {
     "node": "12.22.1"
   },
-  "homepage": {
-    "http://abdullahmerndev.github.io/buyoot-app"
-  },
+  "homepage": "http://abdullahmerndev.github.io/buyoot-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
